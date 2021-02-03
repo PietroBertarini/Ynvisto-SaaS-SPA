@@ -1,0 +1,484 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurrentPosition tests Renders CurrentPosition page and match to previously snapshot 1`] = `
+<BrowserRouter>
+  <Router
+    history={
+      Object {
+        "action": "POP",
+        "block": [Function],
+        "createHref": [Function],
+        "go": [Function],
+        "goBack": [Function],
+        "goForward": [Function],
+        "length": 1,
+        "listen": [Function],
+        "location": Object {
+          "hash": "",
+          "pathname": "/",
+          "search": "",
+          "state": undefined,
+        },
+        "push": [Function],
+        "replace": [Function],
+      }
+    }
+  >
+    <Provider
+      store={
+        Object {
+          "dispatch": [MockFunction],
+          "getState": [Function],
+          "persistor": Object {
+            "persist": [Function],
+          },
+          "replaceReducer": [Function],
+          "subscribe": [Function],
+          Symbol(observable): [Function],
+        }
+      }
+    >
+      <Connect(CurrentPosition)>
+        <CurrentPosition
+          dispatch={[MockFunction]}
+          isFetching={false}
+          taxReport={
+            Object {
+              "currentPositions": Array [
+                Object {
+                  "avgCost": 12.22,
+                  "quantity": 100,
+                  "ticker": "ABEV3",
+                  "type": "Acoes",
+                },
+                Object {
+                  "avgCost": 23.9402,
+                  "quantity": -100,
+                  "ticker": "ITUB4",
+                  "type": "Acoes",
+                },
+                Object {
+                  "avgCost": 11.99,
+                  "quantity": -100,
+                  "ticker": "HFOF11",
+                  "type": "Fii",
+                },
+                Object {
+                  "avgCost": 34,
+                  "quantity": 100,
+                  "ticker": "BRCO11",
+                  "type": "Fii",
+                },
+                Object {
+                  "avgCost": 15.035,
+                  "quantity": 100,
+                  "ticker": "USDT",
+                  "type": "Crypto",
+                },
+              ],
+              "monthlyReports": Array [],
+              "operations": Array [],
+            }
+          }
+        >
+          <styled.div>
+            <div
+              className="sc-eCApGN esVHXj"
+            >
+              Meus Ativos
+            </div>
+          </styled.div>
+          <styled.div>
+            <div
+              className="sc-jSFkmK ejigWk"
+            >
+              <styled.div>
+                <div
+                  className="sc-gKAblj cffmaO"
+                >
+                  <p>
+                    Total:
+                     
+                    R$ 2.532,48
+                  </p>
+                </div>
+              </styled.div>
+              <div
+                className="pieChart"
+              >
+                <ResponsivePie
+                  borderColor={
+                    Object {
+                      "from": "color",
+                      "modifiers": Array [
+                        Array [
+                          "darker",
+                          0.2,
+                        ],
+                      ],
+                    }
+                  }
+                  borderWidth={1}
+                  colors={
+                    Object {
+                      "datum": "data.color",
+                    }
+                  }
+                  cornerRadius={3}
+                  data={
+                    Array [
+                      Object {
+                        "color": "#5FC2FA",
+                        "id": "Crypto",
+                        "label": "Crypto",
+                        "value": 1503.5,
+                      },
+                      Object {
+                        "color": "#BFC769",
+                        "id": "FII",
+                        "label": "FII",
+                        "value": 2201,
+                      },
+                    ]
+                  }
+                  enableRadialLabels={true}
+                  enableSliceLabels={true}
+                  innerRadius={0.5}
+                  isInteractive={true}
+                  legends={
+                    Array [
+                      Object {
+                        "anchor": "top-left",
+                        "direction": "column",
+                        "effects": Array [
+                          Object {
+                            "on": "hover",
+                            "style": Object {
+                              "itemOpacity": 1,
+                            },
+                          },
+                        ],
+                        "itemDirection": "left-to-right",
+                        "itemHeight": 25,
+                        "itemOpacity": 0.8,
+                        "itemWidth": 100,
+                        "itemsSpacing": 10,
+                        "justify": false,
+                        "symbolShape": "circle",
+                        "symbolSize": 20,
+                        "translateX": 100,
+                        "translateY": -20,
+                      },
+                    ]
+                  }
+                  margin={
+                    Object {
+                      "bottom": 40,
+                      "left": 80,
+                      "right": 80,
+                      "top": 20,
+                    }
+                  }
+                  padAngle={0.7}
+                  radialLabel={[Function]}
+                  radialLabelsLinkColor={
+                    Object {
+                      "from": "color",
+                    }
+                  }
+                  radialLabelsLinkStrokeWidth={4}
+                  radialLabelsSkipAngle={10}
+                  radialLabelsTextColor="#fff"
+                  sliceLabel={[Function]}
+                  sliceLabelsSkipAngle={10}
+                  sliceLabelsTextColor="#000"
+                  theme={
+                    Object {
+                      "fontSize": 17,
+                      "legends": Object {
+                        "text": Object {
+                          "fill": "#fff",
+                        },
+                      },
+                    }
+                  }
+                >
+                  <ResponsiveWrapper>
+                    <div
+                      style={
+                        Object {
+                          "height": "100%",
+                          "width": "100%",
+                        }
+                      }
+                    />
+                  </ResponsiveWrapper>
+                </ResponsivePie>
+              </div>
+              <styled.div>
+                <div
+                  className="sc-iCoHVE jvDatO"
+                >
+                  <table>
+                    <thead>
+                      <tr>
+                        <th
+                          className="leftAlign"
+                        >
+                          Ticker
+                        </th>
+                        <th
+                          className="rightAlign"
+                        >
+                          Quantidade
+                        </th>
+                        <th
+                          className="rightAlign"
+                        >
+                          Preço Médio
+                        </th>
+                        <th
+                          className="leftAlign"
+                        >
+                          Tipo
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr
+                        key="ABEV3"
+                      >
+                        <td
+                          className="leftAlign"
+                        >
+                          ABEV3
+                        </td>
+                        <td
+                          className="rightAlign"
+                        >
+                          100
+                        </td>
+                        <td
+                          className="rightAlign"
+                        >
+                          R$
+                           
+                          12,22
+                        </td>
+                        <td
+                          className="leftAlign"
+                        >
+                          <LabelStocks
+                            title="Acoes"
+                          >
+                            <styled.div>
+                              <div
+                                className="sc-dlnjPT kjZtbD"
+                              >
+                                <styled.div
+                                  title="Ações"
+                                >
+                                  <div
+                                    className="sc-hKFyIo eamnqb"
+                                    title="Ações"
+                                  >
+                                    Ações
+                                  </div>
+                                </styled.div>
+                              </div>
+                            </styled.div>
+                          </LabelStocks>
+                        </td>
+                      </tr>
+                      <tr
+                        key="ITUB4"
+                      >
+                        <td
+                          className="leftAlign"
+                        >
+                          ITUB4
+                        </td>
+                        <td
+                          className="rightAlign"
+                        >
+                          -100
+                        </td>
+                        <td
+                          className="rightAlign"
+                        >
+                          R$
+                           
+                          23,94
+                        </td>
+                        <td
+                          className="leftAlign"
+                        >
+                          <LabelStocks
+                            title="Acoes"
+                          >
+                            <styled.div>
+                              <div
+                                className="sc-dlnjPT kjZtbD"
+                              >
+                                <styled.div
+                                  title="Ações"
+                                >
+                                  <div
+                                    className="sc-hKFyIo eamnqb"
+                                    title="Ações"
+                                  >
+                                    Ações
+                                  </div>
+                                </styled.div>
+                              </div>
+                            </styled.div>
+                          </LabelStocks>
+                        </td>
+                      </tr>
+                      <tr
+                        key="HFOF11"
+                      >
+                        <td
+                          className="leftAlign"
+                        >
+                          HFOF11
+                        </td>
+                        <td
+                          className="rightAlign"
+                        >
+                          -100
+                        </td>
+                        <td
+                          className="rightAlign"
+                        >
+                          R$
+                           
+                          11,99
+                        </td>
+                        <td
+                          className="leftAlign"
+                        >
+                          <LabelStocks
+                            title="Fii"
+                          >
+                            <styled.div>
+                              <div
+                                className="sc-dlnjPT kjZtbD"
+                              >
+                                <styled.div
+                                  title="FII"
+                                >
+                                  <div
+                                    className="sc-hKFyIo chYOaU"
+                                    title="FII"
+                                  >
+                                    FII
+                                  </div>
+                                </styled.div>
+                              </div>
+                            </styled.div>
+                          </LabelStocks>
+                        </td>
+                      </tr>
+                      <tr
+                        key="BRCO11"
+                      >
+                        <td
+                          className="leftAlign"
+                        >
+                          BRCO11
+                        </td>
+                        <td
+                          className="rightAlign"
+                        >
+                          100
+                        </td>
+                        <td
+                          className="rightAlign"
+                        >
+                          R$
+                           
+                          34,00
+                        </td>
+                        <td
+                          className="leftAlign"
+                        >
+                          <LabelStocks
+                            title="Fii"
+                          >
+                            <styled.div>
+                              <div
+                                className="sc-dlnjPT kjZtbD"
+                              >
+                                <styled.div
+                                  title="FII"
+                                >
+                                  <div
+                                    className="sc-hKFyIo chYOaU"
+                                    title="FII"
+                                  >
+                                    FII
+                                  </div>
+                                </styled.div>
+                              </div>
+                            </styled.div>
+                          </LabelStocks>
+                        </td>
+                      </tr>
+                      <tr
+                        key="USDT"
+                      >
+                        <td
+                          className="leftAlign"
+                        >
+                          USDT
+                        </td>
+                        <td
+                          className="rightAlign"
+                        >
+                          100
+                        </td>
+                        <td
+                          className="rightAlign"
+                        >
+                          R$
+                           
+                          15,04
+                        </td>
+                        <td
+                          className="leftAlign"
+                        >
+                          <LabelStocks
+                            title="Crypto"
+                          >
+                            <styled.div>
+                              <div
+                                className="sc-dlnjPT kjZtbD"
+                              >
+                                <styled.div
+                                  title="Crypto"
+                                >
+                                  <div
+                                    className="sc-hKFyIo bREWOu"
+                                    title="Crypto"
+                                  >
+                                    Crypto
+                                  </div>
+                                </styled.div>
+                              </div>
+                            </styled.div>
+                          </LabelStocks>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </styled.div>
+            </div>
+          </styled.div>
+        </CurrentPosition>
+      </Connect(CurrentPosition)>
+    </Provider>
+  </Router>
+</BrowserRouter>
+`;

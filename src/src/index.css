@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background-color: rgb(0,0,0);
+  background-repeat: no-repeat;
+  height: 100%;
+  background-attachment: fixed;
+  background-image: linear-gradient(35deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 40%, rgba(50,50,62,1) 100%);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'Zurich';
+  font-weight: normal;
+  font-style: normal;
+  src: url('Assets/fonts/Zurich/zurich_light_bt.ttf') format("truetype")
+}
+@font-face {
+  font-family: 'Zurich';
+  font-weight: bold;
+  font-style: normal;
+  src: url('Assets/fonts/Zurich/zurich_bold_bt.ttf') format("truetype")
+}
+@font-face {
+  font-family: 'SF Pro Display';
+  font-weight: normal;
+  font-style: normal;
+  src: url('Assets/fonts/SfPro/SF-Pro-Display-Medium.otf') format("openType")
+}
+@font-face {
+  font-family: 'SF Pro Display';
+  font-weight: bold;
+  font-style: normal;
+  src: url('Assets/fonts/SfPro/SF-Pro-Display-Bold.otf') format("openType")
+}
+@font-face {
+  font-family: 'Punk';
+  font-weight: normal;
+  font-style: normal;
+  src: url('Assets/fonts/Punk.otf') format("openType")
+}
+
+

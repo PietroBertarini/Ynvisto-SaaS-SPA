@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders ResumoInfo components and match to previously snapshot 1`] = `
+<Styled(MuiBox)
+  alignSelf="center"
+  display="flex"
+  flexDirection="column"
+  justifyContent="center"
+>
+  <WithStyles(ForwardRef(Typography))
+    className="makeStyles-resumeHeader-2 makeStyles-resumeHeader-3"
+  >
+    R$ 30.304,94
+  </WithStyles(ForwardRef(Typography))>
+  <WithStyles(ForwardRef(Typography))
+    align="center"
+    className="makeStyles-resumeSubTitle-1"
+  >
+    Maio
+  </WithStyles(ForwardRef(Typography))>
+</Styled(MuiBox)>
+`;
+
+exports[`Renders ResumoInfo components and match to previously snapshot 2`] = `
+<Styled(MuiBox)
+  alignSelf="center"
+  display="flex"
+  flexDirection="column"
+  justifyContent="center"
+>
+  <WithStyles(ForwardRef(Typography))
+    className="makeStyles-resumeHeader-2 makeStyles-resumeHeader-4"
+  >
+    R$ 30.304,94
+  </WithStyles(ForwardRef(Typography))>
+  <WithStyles(ForwardRef(Typography))
+    align="center"
+    className="makeStyles-resumeSubTitle-1"
+  >
+    Maio
+  </WithStyles(ForwardRef(Typography))>
+</Styled(MuiBox)>
+`;
+
+exports[`Renders ResumoInfo components and match to previously snapshot 3`] = `
+<Styled(MuiBox)
+  alignSelf="center"
+  display="flex"
+  flexDirection="column"
+  justifyContent="center"
+>
+  <WithStyles(ForwardRef(Typography))
+    className="makeStyles-resumeHeader-2 makeStyles-resumeHeader-5"
+  >
+    R$ 30.304,94
+  </WithStyles(ForwardRef(Typography))>
+  <WithStyles(ForwardRef(Typography))
+    align="center"
+    className="makeStyles-resumeSubTitle-1"
+  >
+    Maio
+  </WithStyles(ForwardRef(Typography))>
+</Styled(MuiBox)>
+`;
+
+exports[`Renders ResumoInfo components and match to previously snapshot 4`] = `
+<Styled(MuiBox)
+  alignSelf="center"
+  display="flex"
+  flexDirection="column"
+  justifyContent="center"
+>
+  <WithStyles(ForwardRef(Typography))
+    className="makeStyles-resumeHeader-2 makeStyles-resumeHeader-6"
+  >
+    R$ 30.304,94
+  </WithStyles(ForwardRef(Typography))>
+  <WithStyles(ForwardRef(Typography))
+    align="center"
+    className="makeStyles-resumeSubTitle-1"
+  >
+    Maio
+  </WithStyles(ForwardRef(Typography))>
+</Styled(MuiBox)>
+`;

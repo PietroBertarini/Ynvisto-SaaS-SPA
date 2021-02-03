@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders MonthlyCardReport component and match to previously snapshot 1`] = `
+<Fragment>
+  <WithStyles(ForwardRef(Card))
+    className="makeStyles-card-2"
+    onClick={[Function]}
+  >
+    <WithStyles(ForwardRef(CardActionArea))
+      className="makeStyles-actionArea-5"
+    >
+      <WithStyles(ForwardRef(CardContent))
+        className="makeStyles-titleContainer-1"
+      >
+        <Styled(MuiBox)
+          alignContent="center"
+          alignItems="center"
+          className="makeStyles-titleContainer-1"
+          display="flex"
+          justifyContent="center"
+        >
+          <WithStyles(ForwardRef(Typography))
+            align="center"
+            className="makeStyles-title-4"
+            variant="h5"
+          >
+            Volume isento em operações comuns
+          </WithStyles(ForwardRef(Typography))>
+        </Styled(MuiBox)>
+      </WithStyles(ForwardRef(CardContent))>
+      <WithStyles(ForwardRef(CardContent))
+        className="makeStyles-content-3"
+      >
+        <Styled(MuiBox)
+          alignSelf="center"
+          display="flex"
+          flexDirection="column"
+          justifyContent="center"
+        >
+          <WithStyles(ForwardRef(Typography))
+            className="makeStyles-headerMonetaryValue-7 makeStyles-headerMonetaryValue-12"
+            variant="h4"
+          >
+            R$ 10,00
+          </WithStyles(ForwardRef(Typography))>
+          <ValuesBar
+            data={
+              Array [
+                Object {
+                  "color": "#52A9F4",
+                  "label": "Operações Comuns",
+                  "value": 10,
+                },
+                Object {
+                  "color": "#71D3DE",
+                  "label": "Day Trade",
+                  "value": 100,
+                },
+              ]
+            }
+          />
+          <MonthlyCardReportLegend
+            legendData={
+              Array [
+                Object {
+                  "color": "#52A9F4",
+                  "label": "Operações Comuns",
+                  "value": 10,
+                },
+                Object {
+                  "color": "#71D3DE",
+                  "label": "Day Trade",
+                  "value": 100,
+                },
+              ]
+            }
+          />
+        </Styled(MuiBox)>
+      </WithStyles(ForwardRef(CardContent))>
+    </WithStyles(ForwardRef(CardActionArea))>
+  </WithStyles(ForwardRef(Card))>
+  <WithStyles(ForwardRef(Dialog))
+    PaperProps={
+      Object {
+        "style": Object {
+          "backgroundColor": "transparent",
+          "borderRadius": 20,
+        },
+      }
+    }
+    aria-labelledby="simple-dialog-title"
+    className="makeStyles-modal-8"
+    onClose={[Function]}
+    open={false}
+    scroll="body"
+  >
+    <div
+      className="makeStyles-paper-9"
+    />
+  </WithStyles(ForwardRef(Dialog))>
+</Fragment>
+`;

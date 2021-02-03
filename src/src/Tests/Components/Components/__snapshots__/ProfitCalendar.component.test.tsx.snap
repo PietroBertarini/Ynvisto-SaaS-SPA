@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders ProfitCalendar component and match to previously snapshot 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <WithStyles(ForwardRef(Grid))
+    container={true}
+    spacing={2}
+  >
+    <WithStyles(ForwardRef(Grid))
+      container={true}
+      item={true}
+      spacing={2}
+      xs={12}
+    >
+      <FormRow
+        threeMonthArray={
+          Array [
+            Object {
+              "month": "Janeiro",
+              "profit": 30304.94,
+              "status": "LATE",
+              "tax": 506.14,
+            },
+            Object {
+              "month": "Fevereiro",
+              "profit": 30304.94,
+              "status": "LATE",
+              "tax": 506.14,
+            },
+            Object {
+              "month": "Março",
+              "profit": 30304.94,
+              "status": "PAID",
+              "tax": 506.14,
+            },
+          ]
+        }
+      />
+    </WithStyles(ForwardRef(Grid))>
+    <WithStyles(ForwardRef(Grid))
+      container={true}
+      item={true}
+      spacing={2}
+      xs={12}
+    >
+      <FormRow
+        threeMonthArray={
+          Array [
+            Object {
+              "month": "Abril",
+              "profit": 30304.94,
+              "status": "NO_DARF",
+              "tax": 506.14,
+            },
+            Object {
+              "month": "Maio",
+              "profit": 30304.94,
+              "status": "PENDING",
+              "tax": 506.14,
+            },
+            Object {
+              "month": "Junho",
+              "profit": 30304.94,
+              "status": "NOT_FINISHED",
+              "tax": 506.14,
+            },
+          ]
+        }
+      />
+    </WithStyles(ForwardRef(Grid))>
+    <WithStyles(ForwardRef(Grid))
+      container={true}
+      item={true}
+      spacing={2}
+      xs={12}
+    >
+      <FormRow
+        threeMonthArray={
+          Array [
+            Object {
+              "month": "Julho",
+              "profit": 30304.94,
+              "status": "NOT_FINISHED",
+              "tax": 506.14,
+            },
+            Object {
+              "month": "Agosto",
+              "profit": 30304.94,
+              "status": "NOT_FINISHED",
+              "tax": 506.14,
+            },
+            Object {
+              "month": "Setembro",
+              "profit": 30304.94,
+              "status": "NOT_FINISHED",
+              "tax": 506.14,
+            },
+          ]
+        }
+      />
+    </WithStyles(ForwardRef(Grid))>
+    <WithStyles(ForwardRef(Grid))
+      container={true}
+      item={true}
+      spacing={2}
+      xs={12}
+    >
+      <FormRow
+        threeMonthArray={
+          Array [
+            Object {
+              "month": "Outubro",
+              "profit": 30304.94,
+              "status": "NOT_FINISHED",
+              "tax": 506.14,
+            },
+            Object {
+              "month": "Novembro",
+              "profit": 30304.94,
+              "status": "NOT_FINISHED",
+              "tax": 506.14,
+            },
+            Object {
+              "month": "Dezembro",
+              "profit": 30304.94,
+              "status": "NOT_FINISHED",
+              "tax": 506.14,
+            },
+          ]
+        }
+      />
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Grid))>
+</div>
+`;

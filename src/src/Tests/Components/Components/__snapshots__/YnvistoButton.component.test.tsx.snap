@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders YnvistoButton with status prop component and match to previously snapshot 1`] = `
+<div
+  className="makeStyles-main-3"
+>
+  <WithStyles(ForwardRef(Button))
+    className="makeStyles-button-1 makeStyles-button-5"
+    onClick={[Function]}
+    variant="outlined"
+  />
+  <h5
+    className="makeStyles-underText-2"
+  />
+</div>
+`;
+
+exports[`Renders YnvistoButton without status prop component and match to previously snapshot 1`] = `
+<div
+  className="makeStyles-main-3"
+>
+  <WithStyles(ForwardRef(Button))
+    className="makeStyles-button-1 makeStyles-button-4"
+    onClick={[Function]}
+    variant="outlined"
+  />
+  <h5
+    className="makeStyles-underText-2"
+  />
+</div>
+`;

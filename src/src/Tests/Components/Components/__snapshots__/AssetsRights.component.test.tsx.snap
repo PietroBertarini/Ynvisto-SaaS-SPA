@@ -1,0 +1,707 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders AssetsRights component and match to previous snapshot 1`] = `
+<styled.div>
+  <styled.div>
+    <div
+      className="values"
+    >
+      <div
+        className="totalItens"
+      >
+        <strong>
+          05
+        </strong>
+        <p>
+          Total de Itens
+        </p>
+      </div>
+      <div
+        className="valor2020"
+      >
+        <strong>
+          R$ 26.335,23
+        </strong>
+        <p>
+          Situação em 31/12/2020
+        </p>
+      </div>
+      <div
+        className="valor2021"
+      >
+        <strong>
+          R$ 2.055,20
+        </strong>
+        <p>
+          Situação em 31/12/2021
+        </p>
+      </div>
+    </div>
+  </styled.div>
+  <styled.div>
+    <div
+      className="list"
+    >
+      <div
+        className="table"
+      >
+        <table>
+          <thead>
+            <tr>
+              <th
+                style={
+                  Object {
+                    "height": 58,
+                  }
+                }
+              >
+                 
+              </th>
+              <th>
+                Item
+              </th>
+              <th
+                style={
+                  Object {
+                    "width": 150,
+                  }
+                }
+              >
+                Ticker
+              </th>
+              <th>
+                Código
+              </th>
+              <th
+                className="large"
+              >
+                Localização
+              </th>
+              <th
+                className="largeRight"
+              >
+                Situação 2020
+              </th>
+              <th
+                className="largeRight"
+              >
+                Situação 2021
+              </th>
+              <th>
+                Discriminação
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              key="1"
+            >
+              <td
+                style={
+                  Object {
+                    "height": 58,
+                    "margin": 0,
+                    "marginLeft": 10,
+                    "padding": 0,
+                    "paddingLeft": 10,
+                    "paddingTop": 10,
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <CheckCircleOutlineIcon
+                  style={
+                    Object {
+                      "color": "#999",
+                      "fontSize": 35,
+                      "margin": 0,
+                      "padding": 0,
+                    }
+                  }
+                />
+              </td>
+              <td>
+                01
+              </td>
+              <td
+                style={
+                  Object {
+                    "width": 150,
+                  }
+                }
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    AMBR11
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td>
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    09
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="large"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    249 - Estados Unidos da América
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="largeRight"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-end"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    R$ 29,03
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="largeRight"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-end"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    R$ 102,53
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td>
+                <button
+                  onClick={[Function]}
+                  type="button"
+                >
+                  Copiar
+                </button>
+              </td>
+            </tr>
+            <tr
+              key="2"
+            >
+              <td
+                style={
+                  Object {
+                    "height": 58,
+                    "margin": 0,
+                    "marginLeft": 10,
+                    "padding": 0,
+                    "paddingLeft": 10,
+                    "paddingTop": 10,
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <CheckCircleOutlineIcon
+                  style={
+                    Object {
+                      "color": "#999",
+                      "fontSize": 35,
+                      "margin": 0,
+                      "padding": 0,
+                    }
+                  }
+                />
+              </td>
+              <td>
+                02
+              </td>
+              <td
+                style={
+                  Object {
+                    "width": 150,
+                  }
+                }
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    ITAU5
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td>
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    09
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="large"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    105 - Brasil
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="largeRight"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-end"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    R$ 8.574,95
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="largeRight"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-end"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    R$ 132,53
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td>
+                <button
+                  onClick={[Function]}
+                  type="button"
+                >
+                  Copiar
+                </button>
+              </td>
+            </tr>
+            <tr
+              key="3"
+            >
+              <td
+                style={
+                  Object {
+                    "height": 58,
+                    "margin": 0,
+                    "marginLeft": 10,
+                    "padding": 0,
+                    "paddingLeft": 10,
+                    "paddingTop": 10,
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <CheckCircleOutlineIcon
+                  style={
+                    Object {
+                      "color": "#999",
+                      "fontSize": 35,
+                      "margin": 0,
+                      "padding": 0,
+                    }
+                  }
+                />
+              </td>
+              <td>
+                03
+              </td>
+              <td
+                style={
+                  Object {
+                    "width": 150,
+                  }
+                }
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    BBSE12
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td>
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    09
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="large"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    105 - Alguma frase bem longa
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="largeRight"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-end"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    R$ 6.397,30
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="largeRight"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-end"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    R$ 729,35
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td>
+                <button
+                  onClick={[Function]}
+                  type="button"
+                >
+                  Copiar
+                </button>
+              </td>
+            </tr>
+            <tr
+              key="4"
+            >
+              <td
+                style={
+                  Object {
+                    "height": 58,
+                    "margin": 0,
+                    "marginLeft": 10,
+                    "padding": 0,
+                    "paddingLeft": 10,
+                    "paddingTop": 10,
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <CheckCircleOutlineIcon
+                  style={
+                    Object {
+                      "color": "#999",
+                      "fontSize": 35,
+                      "margin": 0,
+                      "padding": 0,
+                    }
+                  }
+                />
+              </td>
+              <td>
+                04
+              </td>
+              <td
+                style={
+                  Object {
+                    "width": 150,
+                  }
+                }
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    OIES11
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td>
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    09
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="large"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    249 - Europa Central
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="largeRight"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-end"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    R$ 4.936,30
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="largeRight"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-end"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    R$ 134,35
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td>
+                <button
+                  onClick={[Function]}
+                  type="button"
+                >
+                  Copiar
+                </button>
+              </td>
+            </tr>
+            <tr
+              key="5"
+            >
+              <td
+                style={
+                  Object {
+                    "height": 58,
+                    "margin": 0,
+                    "marginLeft": 10,
+                    "padding": 0,
+                    "paddingLeft": 10,
+                    "paddingTop": 10,
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <CheckCircleOutlineIcon
+                  style={
+                    Object {
+                      "color": "#999",
+                      "fontSize": 35,
+                      "margin": 0,
+                      "padding": 0,
+                    }
+                  }
+                />
+              </td>
+              <td>
+                05
+              </td>
+              <td
+                style={
+                  Object {
+                    "width": 150,
+                  }
+                }
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    IXE8
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td>
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    09
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="large"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-start"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    105 - Brasil
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="largeRight"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-end"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    R$ 6.397,65
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td
+                className="largeRight"
+              >
+                <WithStyles(WithStyles(ForwardRef(Tooltip)))
+                  arrow={true}
+                  onClick={[Function]}
+                  placement="top-end"
+                  title="Copiar"
+                >
+                  <div
+                    className="text"
+                  >
+                    R$ 956,44
+                  </div>
+                </WithStyles(WithStyles(ForwardRef(Tooltip)))>
+              </td>
+              <td>
+                <button
+                  onClick={[Function]}
+                  type="button"
+                >
+                  Copiar
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </styled.div>
+</styled.div>
+`;

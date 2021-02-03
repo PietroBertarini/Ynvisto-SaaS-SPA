@@ -1,0 +1,411 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders ProfitCardProps components and match to previously snapshot 1`] = `
+<WithStyles(ForwardRef(Card))
+  className="makeStyles-root-1 makeStyles-root-11"
+>
+  <Link
+    to="Maio"
+  >
+    <WithStyles(ForwardRef(CardActionArea))
+      className="makeStyles-actionArea-2"
+    >
+      <WithStyles(ForwardRef(CardContent))>
+        <Styled(MuiBox)
+          display="flex"
+        >
+          <WithStyles(ForwardRef(Typography))
+            className="makeStyles-month-8"
+          >
+            Maio
+          </WithStyles(ForwardRef(Typography))>
+        </Styled(MuiBox)>
+        <WithStyles(ForwardRef(Grid))
+          className="makeStyles-displayFlex-10"
+          container={true}
+          direction="row"
+        >
+          <WithStyles(ForwardRef(Grid))
+            className="makeStyles-displayFlex-10"
+            item={true}
+            xs={7}
+          >
+            <Styled(MuiBox)
+              alignItems="center"
+              alignSelf="center"
+              className="makeStyles-box-9"
+              display="flex"
+              flexDirection="column"
+              justifyContent="flex-start"
+            >
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-profitPositive-3 makeStyles-profitPositive-12"
+              >
+                R$ 30.304,94
+              </WithStyles(ForwardRef(Typography))>
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-subtitle-7"
+              >
+                Lucro
+              </WithStyles(ForwardRef(Typography))>
+            </Styled(MuiBox)>
+          </WithStyles(ForwardRef(Grid))>
+          <WithStyles(ForwardRef(Grid))
+            className="makeStyles-displayFlex-10"
+            item={true}
+            xs={5}
+          >
+            <Styled(MuiBox)
+              alignItems="center"
+              alignSelf="center"
+              className="makeStyles-box-9"
+              display="flex"
+              flexDirection="column"
+              justifyContent="flex-start"
+            >
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-tax-5 makeStyles-tax-14"
+              >
+                R$ 506,14
+              </WithStyles(ForwardRef(Typography))>
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-subtitle-7"
+              >
+                Imposto
+              </WithStyles(ForwardRef(Typography))>
+            </Styled(MuiBox)>
+          </WithStyles(ForwardRef(Grid))>
+        </WithStyles(ForwardRef(Grid))>
+      </WithStyles(ForwardRef(CardContent))>
+    </WithStyles(ForwardRef(CardActionArea))>
+  </Link>
+</WithStyles(ForwardRef(Card))>
+`;
+
+exports[`Renders ProfitCardProps components and match to previously snapshot 2`] = `
+<WithStyles(ForwardRef(Card))
+  className="makeStyles-root-1 makeStyles-root-15"
+>
+  <Link
+    to="Maio"
+  >
+    <WithStyles(ForwardRef(CardActionArea))
+      className="makeStyles-actionArea-2"
+    >
+      <WithStyles(ForwardRef(CardContent))>
+        <Styled(MuiBox)
+          display="flex"
+        >
+          <WithStyles(ForwardRef(Typography))
+            className="makeStyles-month-8"
+          >
+            Maio
+          </WithStyles(ForwardRef(Typography))>
+        </Styled(MuiBox)>
+        <WithStyles(ForwardRef(Grid))
+          className="makeStyles-displayFlex-10"
+          container={true}
+          direction="row"
+        >
+          <WithStyles(ForwardRef(Grid))
+            className="makeStyles-displayFlex-10"
+            item={true}
+            xs={7}
+          >
+            <Styled(MuiBox)
+              alignItems="center"
+              alignSelf="center"
+              className="makeStyles-box-9"
+              display="flex"
+              flexDirection="column"
+              justifyContent="flex-start"
+            >
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-profitPositive-3 makeStyles-profitPositive-16"
+              >
+                R$ 30.304,94
+              </WithStyles(ForwardRef(Typography))>
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-subtitle-7"
+              >
+                Lucro
+              </WithStyles(ForwardRef(Typography))>
+            </Styled(MuiBox)>
+          </WithStyles(ForwardRef(Grid))>
+          <WithStyles(ForwardRef(Grid))
+            className="makeStyles-displayFlex-10"
+            item={true}
+            xs={5}
+          >
+            <Styled(MuiBox)
+              alignItems="center"
+              alignSelf="center"
+              className="makeStyles-box-9"
+              display="flex"
+              flexDirection="column"
+              justifyContent="flex-start"
+            >
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-tax-5 makeStyles-tax-18"
+              >
+                R$ 506,14
+              </WithStyles(ForwardRef(Typography))>
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-subtitle-7"
+              >
+                Imposto
+              </WithStyles(ForwardRef(Typography))>
+            </Styled(MuiBox)>
+          </WithStyles(ForwardRef(Grid))>
+        </WithStyles(ForwardRef(Grid))>
+      </WithStyles(ForwardRef(CardContent))>
+    </WithStyles(ForwardRef(CardActionArea))>
+  </Link>
+</WithStyles(ForwardRef(Card))>
+`;
+
+exports[`Renders ProfitCardProps components and match to previously snapshot 3`] = `
+<WithStyles(ForwardRef(Card))
+  className="makeStyles-root-1 makeStyles-root-19"
+>
+  <Link
+    to="Maio"
+  >
+    <WithStyles(ForwardRef(CardActionArea))
+      className="makeStyles-actionArea-2"
+    >
+      <WithStyles(ForwardRef(CardContent))>
+        <Styled(MuiBox)
+          display="flex"
+        >
+          <WithStyles(ForwardRef(Typography))
+            className="makeStyles-month-8"
+          >
+            Maio
+          </WithStyles(ForwardRef(Typography))>
+        </Styled(MuiBox)>
+        <WithStyles(ForwardRef(Grid))
+          className="makeStyles-displayFlex-10"
+          container={true}
+          direction="row"
+        >
+          <WithStyles(ForwardRef(Grid))
+            className="makeStyles-displayFlex-10"
+            item={true}
+            xs={7}
+          >
+            <Styled(MuiBox)
+              alignItems="center"
+              alignSelf="center"
+              className="makeStyles-box-9"
+              display="flex"
+              flexDirection="column"
+              justifyContent="flex-start"
+            >
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-profitPositive-3 makeStyles-profitPositive-20"
+              >
+                R$ 30.304,94
+              </WithStyles(ForwardRef(Typography))>
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-subtitle-7"
+              >
+                Lucro
+              </WithStyles(ForwardRef(Typography))>
+            </Styled(MuiBox)>
+          </WithStyles(ForwardRef(Grid))>
+          <WithStyles(ForwardRef(Grid))
+            className="makeStyles-displayFlex-10"
+            item={true}
+            xs={5}
+          >
+            <Styled(MuiBox)
+              alignItems="center"
+              alignSelf="center"
+              className="makeStyles-box-9"
+              display="flex"
+              flexDirection="column"
+              justifyContent="flex-start"
+            >
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-tax-5 makeStyles-tax-22"
+              >
+                R$ 506,14
+              </WithStyles(ForwardRef(Typography))>
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-subtitle-7"
+              >
+                Imposto
+              </WithStyles(ForwardRef(Typography))>
+            </Styled(MuiBox)>
+          </WithStyles(ForwardRef(Grid))>
+        </WithStyles(ForwardRef(Grid))>
+      </WithStyles(ForwardRef(CardContent))>
+    </WithStyles(ForwardRef(CardActionArea))>
+  </Link>
+</WithStyles(ForwardRef(Card))>
+`;
+
+exports[`Renders ProfitCardProps components and match to previously snapshot 4`] = `
+<WithStyles(ForwardRef(Card))
+  className="makeStyles-root-1 makeStyles-root-23"
+>
+  <Link
+    to="Maio"
+  >
+    <WithStyles(ForwardRef(CardActionArea))
+      className="makeStyles-actionArea-2"
+    >
+      <WithStyles(ForwardRef(CardContent))>
+        <Styled(MuiBox)
+          display="flex"
+        >
+          <WithStyles(ForwardRef(Typography))
+            className="makeStyles-month-8"
+          >
+            Maio
+          </WithStyles(ForwardRef(Typography))>
+        </Styled(MuiBox)>
+        <WithStyles(ForwardRef(Grid))
+          className="makeStyles-displayFlex-10"
+          container={true}
+          direction="row"
+        >
+          <WithStyles(ForwardRef(Grid))
+            className="makeStyles-displayFlex-10"
+            item={true}
+            xs={7}
+          >
+            <Styled(MuiBox)
+              alignItems="center"
+              alignSelf="center"
+              className="makeStyles-box-9"
+              display="flex"
+              flexDirection="column"
+              justifyContent="flex-start"
+            >
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-profitPositive-3 makeStyles-profitPositive-24"
+              >
+                R$ 30.304,94
+              </WithStyles(ForwardRef(Typography))>
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-subtitle-7"
+              >
+                Lucro
+              </WithStyles(ForwardRef(Typography))>
+            </Styled(MuiBox)>
+          </WithStyles(ForwardRef(Grid))>
+          <WithStyles(ForwardRef(Grid))
+            className="makeStyles-displayFlex-10"
+            item={true}
+            xs={5}
+          >
+            <Styled(MuiBox)
+              alignItems="center"
+              alignSelf="center"
+              className="makeStyles-box-9"
+              display="flex"
+              flexDirection="column"
+              justifyContent="flex-start"
+            >
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-tax-5 makeStyles-tax-26"
+              >
+                R$ 506,14
+              </WithStyles(ForwardRef(Typography))>
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-subtitle-7"
+              >
+                Imposto
+              </WithStyles(ForwardRef(Typography))>
+            </Styled(MuiBox)>
+          </WithStyles(ForwardRef(Grid))>
+        </WithStyles(ForwardRef(Grid))>
+      </WithStyles(ForwardRef(CardContent))>
+    </WithStyles(ForwardRef(CardActionArea))>
+  </Link>
+</WithStyles(ForwardRef(Card))>
+`;
+
+exports[`Renders ProfitCardProps components and match to previously snapshot 5`] = `
+<WithStyles(ForwardRef(Card))
+  className="makeStyles-root-1 makeStyles-root-27"
+>
+  <Link
+    to="Maio"
+  >
+    <WithStyles(ForwardRef(CardActionArea))
+      className="makeStyles-actionArea-2"
+    >
+      <WithStyles(ForwardRef(CardContent))>
+        <Styled(MuiBox)
+          display="flex"
+        >
+          <WithStyles(ForwardRef(Typography))
+            className="makeStyles-month-8"
+          >
+            Maio
+          </WithStyles(ForwardRef(Typography))>
+        </Styled(MuiBox)>
+        <WithStyles(ForwardRef(Grid))
+          className="makeStyles-displayFlex-10"
+          container={true}
+          direction="row"
+        >
+          <WithStyles(ForwardRef(Grid))
+            className="makeStyles-displayFlex-10"
+            item={true}
+            xs={7}
+          >
+            <Styled(MuiBox)
+              alignItems="center"
+              alignSelf="center"
+              className="makeStyles-box-9"
+              display="flex"
+              flexDirection="column"
+              justifyContent="flex-start"
+            >
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-profitPositive-3 makeStyles-profitPositive-28"
+              >
+                R$ 30.304,94
+              </WithStyles(ForwardRef(Typography))>
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-subtitle-7"
+              >
+                Lucro
+              </WithStyles(ForwardRef(Typography))>
+            </Styled(MuiBox)>
+          </WithStyles(ForwardRef(Grid))>
+          <WithStyles(ForwardRef(Grid))
+            className="makeStyles-displayFlex-10"
+            item={true}
+            xs={5}
+          >
+            <Styled(MuiBox)
+              alignItems="center"
+              alignSelf="center"
+              className="makeStyles-box-9"
+              display="flex"
+              flexDirection="column"
+              justifyContent="flex-start"
+            >
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-tax-5 makeStyles-tax-30"
+              >
+                R$ 506,14
+              </WithStyles(ForwardRef(Typography))>
+              <WithStyles(ForwardRef(Typography))
+                className="makeStyles-subtitle-7"
+              >
+                Imposto
+              </WithStyles(ForwardRef(Typography))>
+            </Styled(MuiBox)>
+          </WithStyles(ForwardRef(Grid))>
+        </WithStyles(ForwardRef(Grid))>
+      </WithStyles(ForwardRef(CardContent))>
+    </WithStyles(ForwardRef(CardActionArea))>
+  </Link>
+</WithStyles(ForwardRef(Card))>
+`;

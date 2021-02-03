@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders ProfitCalendarLegend component and match to previously snapshot 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <Styled(MuiBox)
+    display="flex"
+    flexDirection="row"
+  >
+    <FormRow
+      color="BLUE"
+      key="DARF Paga"
+      label="DARF Paga"
+    />
+    <FormRow
+      color="GREEN"
+      key="Não houve DARF"
+      label="Não houve DARF"
+    />
+    <FormRow
+      color="YELLOW"
+      key="DARF Pendente"
+      label="DARF Pendente"
+    />
+    <FormRow
+      color="RED"
+      key="DARF Atrasada"
+      label="DARF Atrasada"
+    />
+    <FormRow
+      color="WHITE"
+      key="Mês não finalizado"
+      label="Mês não finalizado"
+    />
+  </Styled(MuiBox)>
+</div>
+`;

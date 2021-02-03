@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders ValuesBar component and match to previously snapshot 1`] = `
+<WithStyles(ForwardRef(Card))
+  className="makeStyles-card-1"
+  variant="outlined"
+>
+  <ResponsiveBar
+    animate={true}
+    axisBottom={null}
+    axisLeft={null}
+    axisRight={null}
+    axisTop={null}
+    borderColor={
+      Object {
+        "from": "color",
+        "modifiers": Array [
+          Array [
+            "darker",
+            1.6,
+          ],
+        ],
+      }
+    }
+    borderWidth={1}
+    colors={
+      Array [
+        "#192d00",
+      ]
+    }
+    data={
+      Array [
+        Object {
+          "Subscrição": -100000,
+        },
+      ]
+    }
+    enableGridY={false}
+    enableLabel={false}
+    isInteractive={false}
+    keys={
+      Array [
+        "Subscrição",
+      ]
+    }
+    layout="horizontal"
+    motionDamping={15}
+    motionStiffness={90}
+  />
+</WithStyles(ForwardRef(Card))>
+`;

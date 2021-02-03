@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders BuildingYnvisto component and match to previous snapshot 1`] = `
+<styled.div>
+  <Referral
+    buttonTitle="Faça seu pedido aqui"
+    onClick={[Function]}
+    svg={
+      <ForwardRef(SvgSocialGrowth)
+        style={
+          Object {
+            "height": "50vh",
+          }
+        }
+      />
+    }
+    texts={
+      Array [
+        "Nós da Ynvisto gostaríamos de facilitar a vida do investidor brasileiro e faremos isso com base na opinião de cada cliente nosso, construindo um produto que seja referência no mercado.",
+        "Com isso, gostaríamos de escutar cada pedido de nossos clientes, para que seja algo feito para a comunidade da Ynvisto.",
+      ]
+    }
+    title="O que você gostaria de ver na Ynvisto ?"
+  />
+</styled.div>
+`;

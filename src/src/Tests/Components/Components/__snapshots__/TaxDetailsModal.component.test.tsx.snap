@@ -1,0 +1,726 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders TaxDetailsModal only with final results components and match to previously snapshot 1`] = `
+<styled.div>
+  <h1>
+    Detalhamento
+  </h1>
+  <div
+    className="operationType"
+  >
+    <h2>
+      Resultados Finais
+    </h2>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Operação Comum
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Day Trade
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto retido na fonte
+      </p>
+      <p>
+        -
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="line"
+    />
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Total da Bolsa
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto FII
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        DARFs pendentes
+      </p>
+      <p>
+        +
+        R$ 188,00
+      </p>
+    </div>
+    <div
+      className="result"
+    >
+      <p>
+        Imposto a pagar
+      </p>
+      <p>
+        =
+        R$ 188,00
+      </p>
+    </div>
+  </div>
+</styled.div>
+`;
+
+exports[`Renders TaxDetailsModal with full data components and match to previously snapshot 1`] = `
+<styled.div>
+  <h1>
+    Detalhamento
+  </h1>
+  <div
+    className="operationType"
+  >
+    <h2>
+      Operações Comuns
+    </h2>
+    <div
+      className="taxes"
+    >
+      <p>
+        Venda total do mês
+      </p>
+      <p>
+        R$ 10.000,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Resultado do mês
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Lucro tributável
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Prejuízo a compensar
+      </p>
+      <p>
+        -
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="line"
+    />
+    <div
+      className="taxes"
+    >
+      <p>
+        Base de Cálculo
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="result"
+    >
+      <p>
+        Imposto devido
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+  </div>
+  <div
+    className="operationType"
+  >
+    <h2>
+      Day Trade
+    </h2>
+    <div
+      className="taxes"
+    >
+      <p>
+        Resultado do mês
+      </p>
+      <p>
+        +
+        R$ 100,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Prejuízo a compensar
+      </p>
+      <p>
+        -
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="line"
+    />
+    <div
+      className="taxes"
+    >
+      <p>
+        Base de Cálculo
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="result"
+    >
+      <p>
+        Imposto devido
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+  </div>
+  <div
+    className="operationType"
+  >
+    <h2>
+      FII
+    </h2>
+    <div
+      className="taxes"
+    >
+      <p>
+        Resultado Líquido
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Prejuízo a compensar
+      </p>
+      <p>
+        -
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="line"
+    />
+    <div
+      className="taxes"
+    >
+      <p>
+        Base de Cálculo
+      </p>
+      <p>
+        =
+        R$ 87,00
+      </p>
+    </div>
+    <div
+      className="result"
+    >
+      <p>
+        Imposto devido
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+  </div>
+  <div
+    className="operationType"
+  >
+    <h2>
+      Resultados Finais
+    </h2>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Operação Comum
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Day Trade
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto retido na fonte
+      </p>
+      <p>
+        -
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="line"
+    />
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Total da Bolsa
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto FII
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        DARFs pendentes
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="result"
+    >
+      <p>
+        Imposto a pagar
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+  </div>
+</styled.div>
+`;
+
+exports[`Renders TaxDetailsModal with only one field components and match to previously snapshot 1`] = `
+<styled.div>
+  <h1>
+    Detalhamento
+  </h1>
+  <div
+    className="operationType"
+  >
+    <h2>
+      Day Trade
+    </h2>
+    <div
+      className="taxes"
+    >
+      <p>
+        Resultado do mês
+      </p>
+      <p>
+        +
+        R$ 65,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Prejuízo a compensar
+      </p>
+      <p>
+        -
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="line"
+    />
+    <div
+      className="taxes"
+    >
+      <p>
+        Base de Cálculo
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="result"
+    >
+      <p>
+        Imposto devido
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+  </div>
+  <div
+    className="operationType"
+  >
+    <h2>
+      Resultados Finais
+    </h2>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Operação Comum
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Day Trade
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto retido na fonte
+      </p>
+      <p>
+        -
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="line"
+    />
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Total da Bolsa
+      </p>
+      <p>
+        =
+        R$ 98,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto FII
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        DARFs pendentes
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="result"
+    >
+      <p>
+        Imposto a pagar
+      </p>
+      <p>
+        =
+        R$ 98,00
+      </p>
+    </div>
+  </div>
+</styled.div>
+`;
+
+exports[`Renders TaxDetailsModal without one field components and match to previously snapshot 1`] = `
+<styled.div>
+  <h1>
+    Detalhamento
+  </h1>
+  <div
+    className="operationType"
+  >
+    <h2>
+      Day Trade
+    </h2>
+    <div
+      className="taxes"
+    >
+      <p>
+        Resultado do mês
+      </p>
+      <p>
+        +
+        R$ 100,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Prejuízo a compensar
+      </p>
+      <p>
+        -
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="line"
+    />
+    <div
+      className="taxes"
+    >
+      <p>
+        Base de Cálculo
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="result"
+    >
+      <p>
+        Imposto devido
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+  </div>
+  <div
+    className="operationType"
+  >
+    <h2>
+      FII
+    </h2>
+    <div
+      className="taxes"
+    >
+      <p>
+        Resultado Líquido
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Prejuízo a compensar
+      </p>
+      <p>
+        -
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="line"
+    />
+    <div
+      className="taxes"
+    >
+      <p>
+        Base de Cálculo
+      </p>
+      <p>
+        =
+        R$ 87,00
+      </p>
+    </div>
+    <div
+      className="result"
+    >
+      <p>
+        Imposto devido
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+  </div>
+  <div
+    className="operationType"
+  >
+    <h2>
+      Resultados Finais
+    </h2>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Operação Comum
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Day Trade
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto retido na fonte
+      </p>
+      <p>
+        -
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="line"
+    />
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto Total da Bolsa
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        Imposto FII
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="taxes"
+    >
+      <p>
+        DARFs pendentes
+      </p>
+      <p>
+        +
+        R$ 0,00
+      </p>
+    </div>
+    <div
+      className="result"
+    >
+      <p>
+        Imposto a pagar
+      </p>
+      <p>
+        =
+        R$ 0,00
+      </p>
+    </div>
+  </div>
+</styled.div>
+`;

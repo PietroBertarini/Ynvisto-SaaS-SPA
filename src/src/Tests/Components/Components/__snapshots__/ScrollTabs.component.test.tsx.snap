@@ -1,0 +1,298 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders ScrollTabs component and match to previously snapshot 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <WithStyles(ForwardRef(AppBar))
+    color="transparent"
+    elevation={0}
+    position="static"
+  >
+    <WithStyles(Component)
+      aria-label="scrollable auto tabs example"
+      className="makeStyles-styledTabs-2"
+      indicatorColor="secondary"
+      onChange={[Function]}
+      scrollButtons="auto"
+      textColor="secondary"
+      value={0}
+      variant="scrollable"
+    >
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-0"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-0"
+        key="Geral"
+        label="Geral"
+        to="Geral"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-1"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-1"
+        key="Janeiro"
+        label="Janeiro"
+        to="Janeiro"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-2"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-2"
+        key="Fevereiro"
+        label="Fevereiro"
+        to="Fevereiro"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-3"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-3"
+        key="Março"
+        label="Março"
+        to="Março"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-4"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-4"
+        key="Abril"
+        label="Abril"
+        to="Abril"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-5"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-5"
+        key="Maio"
+        label="Maio"
+        to="Maio"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-6"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-6"
+        key="Junho"
+        label="Junho"
+        to="Junho"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-7"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-7"
+        key="Julho"
+        label="Julho"
+        to="Julho"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-8"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-8"
+        key="Agosto"
+        label="Agosto"
+        to="Agosto"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-9"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-9"
+        key="Setembro"
+        label="Setembro"
+        to="Setembro"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-10"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-10"
+        key="Outubro"
+        label="Outubro"
+        to="Outubro"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-11"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-11"
+        key="Novembro"
+        label="Novembro"
+        to="Novembro"
+      />
+      <WithStyles(Component)
+        aria-controls="scrollable-auto-tabpanel-12"
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          }
+        }
+        id="scrollable-auto-tab-12"
+        key="Dezembro"
+        label="Dezembro"
+        to="Dezembro"
+      />
+    </WithStyles(Component)>
+  </WithStyles(ForwardRef(AppBar))>
+</div>
+`;

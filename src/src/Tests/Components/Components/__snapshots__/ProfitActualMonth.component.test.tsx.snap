@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders ProfitActualMonth component and match to previously snapshot 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <WithStyles(ForwardRef(Grid))
+    container={true}
+    item={true}
+    spacing={2}
+    xs={12}
+  >
+    <FormRow
+      actualMonth={
+        Object {
+          "month": "Junho",
+          "profit": 30304.94,
+          "status": "NOT_FINISHED",
+          "tax": 506.14,
+        }
+      }
+    />
+  </WithStyles(ForwardRef(Grid))>
+</div>
+`;

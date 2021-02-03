@@ -1,0 +1,13 @@
+# Node modules
+.ntvs_analysis.dat
+node_modules/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# React Build Folder
+src/build/
+src/public/meta.json
+
+src/storybook-static/

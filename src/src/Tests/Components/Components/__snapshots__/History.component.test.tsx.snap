@@ -1,0 +1,442 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders History component and match to previous snapshot 1`] = `
+<styled.div>
+  <styled.div
+    key="2020-11-10T00:00:00"
+  >
+    <div
+      className="dateLine"
+    >
+      <ColorfulCircle
+        firstColor="#05E985"
+        lastColor="#EB5050"
+        percentage={100}
+      />
+      <p>
+        10/11/2020
+      </p>
+    </div>
+    <styled.div>
+      <div
+        className="cards"
+      >
+        <YnvistoCard
+          color="#029B58"
+          key="11432"
+        >
+          <styled.div
+            color="#05E985"
+          >
+            <h2>
+              Venda
+               
+              de
+               
+              HGLG11
+               
+              :
+               
+              FII
+            </h2>
+            <div
+              className="infoCard"
+            >
+              <div
+                className="infoLarge"
+              >
+                <h5>
+                  Total:
+                </h5>
+                <p>
+                  R$ 11.432,00
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Preço:
+                </h5>
+                <p>
+                  R$ 114,32
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Unidades:
+                </h5>
+                <p>
+                  100
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Preço Médio:
+                </h5>
+                <p>
+                  R$ 113,32
+                </p>
+              </div>
+              <div
+                className="infoLarge"
+              >
+                <h5>
+                  Lucro:
+                </h5>
+                <p>
+                  R$ 100,00
+                </p>
+              </div>
+            </div>
+          </styled.div>
+        </YnvistoCard>
+      </div>
+    </styled.div>
+  </styled.div>
+  <styled.div
+    key="2020-11-11T00:00:00"
+  >
+    <div
+      className="dateLine"
+    >
+      <ColorfulCircle
+        firstColor="#05E985"
+        lastColor="#EB5050"
+        percentage={0}
+      />
+      <p>
+        11/11/2020
+      </p>
+    </div>
+    <styled.div>
+      <div
+        className="cards"
+      >
+        <YnvistoCard
+          color="#8C2F2F"
+          key="11432"
+        >
+          <styled.div
+            color="#EB5050"
+          >
+            <h2>
+              Venda
+               
+              de
+               
+              HGLG11
+               
+              :
+               
+              FII
+            </h2>
+            <div
+              className="infoCard"
+            >
+              <div
+                className="infoLarge"
+              >
+                <h5>
+                  Total:
+                </h5>
+                <p>
+                  R$ 11.432,00
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Preço:
+                </h5>
+                <p>
+                  R$ 114,32
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Unidades:
+                </h5>
+                <p>
+                  100
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Preço Médio:
+                </h5>
+                <p>
+                  R$ 113,32
+                </p>
+              </div>
+              <div
+                className="infoLarge"
+              >
+                <h5>
+                  Lucro:
+                </h5>
+                <p>
+                  -R$ 100,00
+                </p>
+              </div>
+            </div>
+          </styled.div>
+        </YnvistoCard>
+      </div>
+    </styled.div>
+  </styled.div>
+  <styled.div
+    key="2020-11-12T00:00:00"
+  >
+    <div
+      className="dateLine"
+    >
+      <ColorfulCircle
+        firstColor="#05E985"
+        lastColor="#EB5050"
+        percentage={80}
+      />
+      <p>
+        12/11/2020
+      </p>
+    </div>
+    <styled.div>
+      <div
+        className="cards"
+      >
+        <YnvistoCard
+          color="#029B58"
+          key="500"
+        >
+          <styled.div
+            color="#05E985"
+          >
+            <h2>
+              Compra
+               
+              de
+               
+              OIBR3
+               
+              :
+               
+              Daytrade
+            </h2>
+            <div
+              className="infoCard"
+            >
+              <div
+                className="infoLarge"
+              >
+                <h5>
+                  Total:
+                </h5>
+                <p>
+                  R$ 500,00
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Preço:
+                </h5>
+                <p>
+                  R$ 0,50
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Unidades:
+                </h5>
+                <p>
+                  1000
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Preço de Compra:
+                </h5>
+                <p>
+                  R$ 1,00
+                </p>
+              </div>
+              <div
+                className="infoLarge"
+              >
+                <h5>
+                  Lucro:
+                </h5>
+                <p>
+                  R$ 3.000,00
+                </p>
+              </div>
+            </div>
+          </styled.div>
+        </YnvistoCard>
+        <YnvistoCard
+          color="#029B58"
+          key="10000"
+        >
+          <styled.div
+            color="#05E985"
+          >
+            <h2>
+              Venda
+               
+              de
+               
+              BOVA11
+               
+              :
+               
+              ETF
+            </h2>
+            <div
+              className="infoCard"
+            >
+              <div
+                className="infoLarge"
+              >
+                <h5>
+                  Total:
+                </h5>
+                <p>
+                  R$ 10.000,00
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Preço:
+                </h5>
+                <p>
+                  R$ 100,00
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Unidades:
+                </h5>
+                <p>
+                  100
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Preço Médio:
+                </h5>
+                <p>
+                  R$ 90,00
+                </p>
+              </div>
+              <div
+                className="infoLarge"
+              >
+                <h5>
+                  Lucro:
+                </h5>
+                <p>
+                  R$ 1.000,00
+                </p>
+              </div>
+            </div>
+          </styled.div>
+        </YnvistoCard>
+        <YnvistoCard
+          color="#8C2F2F"
+          key="500"
+        >
+          <styled.div
+            color="#EB5050"
+          >
+            <h2>
+              Compra
+               
+              de
+               
+              OIBR3
+               
+              :
+               
+              Daytrade
+            </h2>
+            <div
+              className="infoCard"
+            >
+              <div
+                className="infoLarge"
+              >
+                <h5>
+                  Total:
+                </h5>
+                <p>
+                  R$ 500,00
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Preço:
+                </h5>
+                <p>
+                  R$ 0,50
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Unidades:
+                </h5>
+                <p>
+                  1000
+                </p>
+              </div>
+              <div
+                className="info"
+              >
+                <h5>
+                  Preço de Compra:
+                </h5>
+                <p>
+                  R$ 1,00
+                </p>
+              </div>
+              <div
+                className="infoLarge"
+              >
+                <h5>
+                  Lucro:
+                </h5>
+                <p>
+                  -R$ 1.000,00
+                </p>
+              </div>
+            </div>
+          </styled.div>
+        </YnvistoCard>
+      </div>
+    </styled.div>
+  </styled.div>
+</styled.div>
+`;

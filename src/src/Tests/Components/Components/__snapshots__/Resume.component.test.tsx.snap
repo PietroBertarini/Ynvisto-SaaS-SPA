@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Resume components and match to previously snapshot 1`] = `
+<Styled(MuiBox)
+  className="makeStyles-resume-1"
+  display="flex"
+  flexDirection="row"
+  justifyContent="space-between"
+>
+  <Styled(MuiBox) />
+  <ResumeInfo
+    status="WARNING"
+    subtitle="Volume isento disponível em Junho"
+    value={30304.94}
+  />
+  <Styled(MuiBox) />
+</Styled(MuiBox)>
+`;
+
+exports[`Renders Resume components and match to previously snapshot 2`] = `
+<Styled(MuiBox)
+  className="makeStyles-resume-1"
+  display="flex"
+  flexDirection="row"
+  justifyContent="space-between"
+>
+  <ResumeInfo
+    status="BAD"
+    subtitle="Volume isento disponível em Maio"
+    value={30304.94}
+  />
+  <Styled(MuiBox) />
+  <ResumeInfo
+    status="WARNING"
+    subtitle="Volume isento disponível em Maio"
+    value={30304.94}
+  />
+</Styled(MuiBox)>
+`;
+
+exports[`Renders Resume components and match to previously snapshot 3`] = `
+<Styled(MuiBox)
+  className="makeStyles-resume-1"
+  display="flex"
+  flexDirection="row"
+  justifyContent="space-between"
+>
+  <ResumeInfo
+    status="GOOD"
+    subtitle="Volume isento disponível em Maio"
+    value={30304.94}
+  />
+  <ResumeInfo
+    status="BAD"
+    subtitle="Volume isento disponível em Maio"
+    value={30304.94}
+  />
+  <ResumeInfo
+    status="WARNING"
+    subtitle="Volume isento disponível em Maio"
+    value={30304.94}
+  />
+</Styled(MuiBox)>
+`;
+
+exports[`Renders Resume components and match to previously snapshot 4`] = `
+<Styled(MuiBox)
+  className="makeStyles-resume-1"
+  display="flex"
+  flexDirection="row"
+  justifyContent="space-between"
+>
+  <ResumeInfo
+    status="GOOD"
+    subtitle="Volume isento disponível em Maio"
+    value={30304.94}
+  />
+  <ResumeInfo
+    status="BAD"
+    subtitle="Volume isento disponível em Maio"
+    value={30304.94}
+  />
+  <ResumeInfo
+    status="WARNING"
+    subtitle="Volume isento disponível em Maio"
+    value={30304.94}
+  />
+</Styled(MuiBox)>
+`;

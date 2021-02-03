@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders IconTextButton component and match to previously snapshot 1`] = `
+<WithStyles(ForwardRef(ListItem))
+  button={true}
+  className="makeStyles-listItem-1"
+  component={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "displayName": "Link",
+      "propTypes": Object {
+        "innerRef": [Function],
+        "onClick": [Function],
+        "replace": [Function],
+        "target": [Function],
+        "to": [Function],
+      },
+      "render": [Function],
+    }
+  }
+  to="/resumo"
+>
+  <WithStyles(ForwardRef(ListItemIcon))
+    style={
+      Object {
+        "minWidth": 40,
+      }
+    }
+  >
+    <WithStyles(ForwardRef(SvgIcon))
+      component={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "render": [Function],
+        }
+      }
+      style={
+        Object {
+          "color": "#B1B1B1",
+        }
+      }
+      viewBox="0 0 600 476.6"
+    />
+  </WithStyles(ForwardRef(ListItemIcon))>
+  <WithStyles(ForwardRef(ListItemText))
+    primary="Resumo"
+    style={
+      Object {
+        "color": "#B1B1B1",
+      }
+    }
+  />
+</WithStyles(ForwardRef(ListItem))>
+`;

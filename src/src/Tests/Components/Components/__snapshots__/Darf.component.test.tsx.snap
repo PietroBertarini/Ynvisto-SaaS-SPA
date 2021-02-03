@@ -1,0 +1,965 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DARF Renders as expected 1`] = `
+<styled.div>
+  <title>
+    Emissão de DARF - Ynvisto
+  </title>
+  <input
+    name="ValidadeDaPagina"
+    type="hidden"
+    value="1"
+  />
+  <div
+    align="left"
+  >
+    <p>
+      <br />
+    </p>
+    <center>
+      <table
+        border="1"
+        bordercolor="#000000"
+        bordercolordark="#000000"
+        bordercolorlight="#000000"
+        cellPadding="2"
+        cellSpacing="0"
+        width="650"
+      >
+        <tbody>
+          <tr>
+            <td
+              align="center"
+              rowSpan="3"
+              width="316"
+            >
+              <img
+                align="left"
+                alt="brasil"
+                border="0"
+                height="77"
+                src="newdarf.png"
+                width="71"
+              />
+              <b>
+                <font
+                  color="#000000"
+                  face="Verdana"
+                  size="2"
+                >
+                  MINISTÉRIO DA FAZENDA
+                  <br />
+                  Secretaria da Receita Federal
+                  <br />
+                </font>
+              </b>
+              <font
+                color="#000000"
+                face="arial"
+                size="1"
+              >
+                Documento de Arrecadação de Receitas Federais
+              </font>
+              <b>
+                <font
+                  color="#000000"
+                  face="Verdana"
+                  size="2"
+                >
+                  <br />
+                </font>
+                <font
+                  color="#000000"
+                  face="Verdana"
+                  size="4"
+                >
+                   DARF
+                </font>
+              </b>
+            </td>
+            <td
+              align="left"
+              colSpan="2"
+              valign="top"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                02 PERÍODO DE APURAÇÃO
+                <br />
+              </font>
+            </td>
+            <td
+              align="right"
+              width="128"
+            >
+              <font
+                face="tahoma"
+                size="1"
+              >
+                <br />
+                <b>
+                  31/10/2020
+                </b>
+                 
+                 
+              </font>
+            </td>
+          </tr>
+          <tr>
+            <td
+              align="left"
+              colSpan="2"
+              valign="top"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                03 NÚMERO DO CPF / CNPJ
+                <br />
+              </font>
+            </td>
+            <td
+              align="right"
+              width="128"
+            >
+              <font
+                face="tahoma"
+                size="1"
+              >
+                <br />
+                <b>
+                  610.155.041-91
+                </b>
+                 
+              </font>
+            </td>
+          </tr>
+          <tr>
+            <td
+              align="left"
+              colSpan="2"
+              valign="top"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                04 CÓDIGO DA RECEITA
+                <br />
+              </font>
+            </td>
+            <td
+              align="right"
+              width="128"
+            >
+              <font
+                face="tahoma"
+                size="1"
+              >
+                <br />
+                <b>
+                  6015
+                </b>
+                 
+              </font>
+            </td>
+          </tr>
+          <tr>
+            <td
+              align="left"
+              rowSpan="2"
+              width="316"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                01 NOME / TELEFONE
+              </font>
+              <br />
+              <font
+                face="tahoma"
+                size="1"
+              >
+                 
+                <b>
+                  Administrador
+                </b>
+                <br />
+                <font
+                  face="tahoma"
+                  size="1"
+                >
+                   
+                  <b />
+                </font>
+              </font>
+            </td>
+            <td
+              align="left"
+              colSpan="2"
+              valign="top"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                05 NÚMERO DE REFERÊNCIA
+                <br />
+              </font>
+            </td>
+            <td
+              align="right"
+              width="128"
+            >
+              <font
+                face="tahoma"
+                size="1"
+              >
+                <br />
+                <b />
+                 
+              </font>
+            </td>
+          </tr>
+          <tr>
+            <td
+              align="left"
+              colSpan="2"
+              valign="top"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                06 DATA DE VENCIMENTO
+                <br />
+              </font>
+            </td>
+            <td
+              align="right"
+              width="128"
+            >
+              <font
+                face="tahoma"
+                size="1"
+              >
+                <br />
+                <b>
+                  30/11/2020
+                </b>
+                 
+              </font>
+            </td>
+          </tr>
+          <tr>
+            <td
+              align="left"
+              rowSpan="3"
+              width="316"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                 
+              </font>
+            </td>
+            <td
+              align="left"
+              colSpan="2"
+              valign="top"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                07 VALOR DO PRINCIPAL
+                <br />
+              </font>
+            </td>
+            <td
+              align="right"
+              width="128"
+            >
+              <font
+                face="tahoma"
+                size="1"
+              >
+                <br />
+                <b>
+                  0,00
+                </b>
+                 
+                 
+              </font>
+            </td>
+          </tr>
+          <tr>
+            <td
+              align="left"
+              colSpan="2"
+              valign="top"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                08 VALOR DA MULTA
+                <br />
+              </font>
+            </td>
+            <td
+              align="right"
+              width="128"
+            >
+              <font
+                face="tahoma"
+                size="1"
+              >
+                <br />
+                <b>
+                  0,00
+                </b>
+                 
+                 
+              </font>
+            </td>
+          </tr>
+          <tr>
+            <td
+              align="left"
+              colSpan="2"
+              valign="top"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                09 VALOR DOS JUROS E/OU ENCARGOS DL - 1.025/69
+              </font>
+            </td>
+            <td
+              align="right"
+              width="128"
+            >
+              <font
+                face="tahoma"
+                size="1"
+              >
+                <br />
+                <b>
+                  0,00
+                </b>
+                 
+                 
+              </font>
+            </td>
+          </tr>
+          <tr>
+            <td
+              align="center"
+              rowSpan="2"
+              width="316"
+            >
+              <table
+                border="0"
+                cellPadding="0"
+                cellSpacing="0"
+              >
+                <tbody>
+                  <tr>
+                    <td
+                      align="center"
+                    >
+                      <font
+                        face="tahoma"
+                        size="1"
+                      >
+                        <b>
+                          ATENÇÃO
+                        </b>
+                      </font>
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td
+                      align="center"
+                    >
+                      <p
+                        align="justify"
+                      >
+                        <font
+                          face="tahoma"
+                          size="1"
+                        >
+                          É vedado o recolhimento de tributos e contribuições administrados pela Secretaria da Receita Federal cujo valor total seja inferior a R$ 10,00. Ocorrendo tal situação, adicione esse valor ao tributo/contribuição de mesmo código de períodos subsequentes, até que o total seja igual ou superior a R$ 10,00.
+                        </font>
+                      </p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+            <td
+              align="left"
+              colSpan="2"
+              valign="top"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                10 VALOR TOTAL
+              </font>
+            </td>
+            <td
+              align="right"
+              width="128"
+            >
+              <font
+                face="tahoma"
+                size="1"
+              >
+                <br />
+                <b>
+                  340,10
+                </b>
+                 
+                 
+              </font>
+            </td>
+          </tr>
+          <tr>
+            <td
+              align="left"
+              colSpan="3"
+              valign="top"
+              width="320"
+            >
+              <font
+                face="arial"
+                size="1"
+              >
+                11 AUTENTICAÇÃO
+                <br />
+                <font
+                  face="tahoma"
+                  size="1"
+                >
+                   
+                  <br />
+                  <font
+                    face="tahoma"
+                    size="1"
+                  >
+                     
+                  </font>
+                </font>
+              </font>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table
+        border="0"
+        bordercolor="#000000"
+        bordercolordark="#000000"
+        bordercolorlight="#000000"
+        cellPadding="0"
+        cellSpacing="0"
+        width="650"
+      />
+      <center>
+        <div
+          align="center"
+        >
+          <p>
+             
+            <br />
+             
+             
+            <br />
+            --------------------------------------------------------------------------------------------------------------------
+            <br />
+             
+             
+            <br />
+               
+          </p>
+          <center>
+            <table
+              border="1"
+              bordercolor="#000000"
+              bordercolordark="#000000"
+              bordercolorlight="#000000"
+              cellPadding="2"
+              cellSpacing="0"
+              width="650"
+            >
+              <tbody>
+                <tr>
+                  <td
+                    align="center"
+                    rowSpan="3"
+                    width="316"
+                  >
+                    <img
+                      align="left"
+                      alt="brasil"
+                      border="0"
+                      height="77"
+                      src="newdarf.png"
+                      width="71"
+                    />
+                    <b>
+                      <font
+                        color="#000000"
+                        face="Verdana"
+                        size="2"
+                      >
+                        MINISTÉRIO DA FAZENDA
+                        <br />
+                        Secretaria da Receita Federal
+                        <br />
+                      </font>
+                    </b>
+                    <font
+                      color="#000000"
+                      face="arial"
+                      size="1"
+                    >
+                      Documento de Arrecadação de Receitas Federais
+                    </font>
+                    <b>
+                      <font
+                        color="#000000"
+                        face="Verdana"
+                        size="2"
+                      >
+                        <br />
+                      </font>
+                      <font
+                        color="#000000"
+                        face="Verdana"
+                        size="4"
+                      >
+                        DARF
+                      </font>
+                    </b>
+                  </td>
+                  <td
+                    align="left"
+                    colSpan="2"
+                    valign="top"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      02 PERÍODO DE APURAÇÃO
+                      <br />
+                    </font>
+                  </td>
+                  <td
+                    align="right"
+                    width="128"
+                  >
+                    <font
+                      face="tahoma"
+                      size="1"
+                    >
+                      <br />
+                      <b>
+                        31/10/2020
+                      </b>
+                       
+                       
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="left"
+                    colSpan="2"
+                    valign="top"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      03 NÚMERO DO CPF / CNPJ
+                      <br />
+                    </font>
+                  </td>
+                  <td
+                    align="right"
+                    width="128"
+                  >
+                    <font
+                      face="tahoma"
+                      size="1"
+                    >
+                      <br />
+                      <b>
+                        610.155.041-91
+                      </b>
+                       
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="left"
+                    colSpan="2"
+                    valign="top"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      04 CÓDIGO DA RECEITA
+                      <br />
+                    </font>
+                  </td>
+                  <td
+                    align="right"
+                    width="128"
+                  >
+                    <font
+                      face="tahoma"
+                      size="1"
+                    >
+                      <br />
+                      <b>
+                        6015
+                      </b>
+                       
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="left"
+                    rowSpan="2"
+                    width="316"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      01 NOME / TELEFONE
+                    </font>
+                    <br />
+                    <font
+                      face="tahoma"
+                      size="1"
+                    >
+                       
+                      <b>
+                        Administrador
+                      </b>
+                      <br />
+                      <font
+                        face="tahoma"
+                        size="1"
+                      >
+                         
+                        <b />
+                      </font>
+                    </font>
+                  </td>
+                  <td
+                    align="left"
+                    colSpan="2"
+                    valign="top"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      05 NÚMERO DE REFERÊNCIA
+                      <br />
+                    </font>
+                  </td>
+                  <td
+                    align="right"
+                    width="128"
+                  >
+                    <font
+                      face="tahoma"
+                      size="1"
+                    >
+                      <br />
+                      <b />
+                       
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="left"
+                    colSpan="2"
+                    valign="top"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      06 DATA DE VENCIMENTO
+                      <br />
+                    </font>
+                  </td>
+                  <td
+                    align="right"
+                    width="128"
+                  >
+                    <font
+                      face="tahoma"
+                      size="1"
+                    >
+                      <br />
+                      <b>
+                        30/11/2020
+                      </b>
+                       
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="left"
+                    rowSpan="3"
+                    width="316"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                       
+                    </font>
+                  </td>
+                  <td
+                    align="left"
+                    colSpan="2"
+                    valign="top"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      07 VALOR DO PRINCIPAL
+                      <br />
+                    </font>
+                  </td>
+                  <td
+                    align="right"
+                    width="128"
+                  >
+                    <font
+                      face="tahoma"
+                      size="1"
+                    >
+                      <br />
+                      <b>
+                        0,00
+                      </b>
+                       
+                       
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="left"
+                    colSpan="2"
+                    valign="top"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      08 VALOR DA MULTA
+                      <br />
+                    </font>
+                  </td>
+                  <td
+                    align="right"
+                    width="128"
+                  >
+                    <font
+                      face="tahoma"
+                      size="1"
+                    >
+                      <br />
+                      <b>
+                        0,00
+                      </b>
+                       
+                       
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="left"
+                    colSpan="2"
+                    valign="top"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      09 VALOR DOS JUROS E/OU ENCARGOS DL - 1.025/69
+                    </font>
+                  </td>
+                  <td
+                    align="right"
+                    width="128"
+                  >
+                    <font
+                      face="tahoma"
+                      size="1"
+                    >
+                      <br />
+                      <b>
+                        0,00
+                      </b>
+                       
+                       
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="center"
+                    rowSpan="2"
+                    width="316"
+                  >
+                    <table
+                      border="0"
+                      cellPadding="0"
+                      cellSpacing="0"
+                    >
+                      <tbody>
+                        <tr>
+                          <td
+                            align="center"
+                          >
+                            <font
+                              face="tahoma"
+                              size="1"
+                            >
+                              <b>
+                                ATENÇÃO
+                              </b>
+                            </font>
+                          </td>
+                          <td />
+                        </tr>
+                        <tr>
+                          <td
+                            align="center"
+                          >
+                            <p
+                              align="justify"
+                            >
+                              <font
+                                face="tahoma"
+                                size="1"
+                              >
+                                É vedado o recolhimento de tributos e contribuições administrados pela Secretaria da Receita Federal cujo valor total seja inferior a R$ 10,00. Ocorrendo tal situação, adicione esse valor ao tributo/contribuição de mesmo código de períodos subsequentes, até que o total seja igual ou superior a R$ 10,00.
+                              </font>
+                            </p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                  <td
+                    align="left"
+                    colSpan="2"
+                    valign="top"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      10 VALOR TOTAL
+                    </font>
+                  </td>
+                  <td
+                    align="right"
+                    width="128"
+                  >
+                    <font
+                      face="tahoma"
+                      size="1"
+                    >
+                      <br />
+                      <b>
+                        340,10
+                      </b>
+                       
+                       
+                    </font>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="left"
+                    colSpan="3"
+                    valign="top"
+                    width="320"
+                  >
+                    <font
+                      face="arial"
+                      size="1"
+                    >
+                      11 AUTENTICAÇÃO
+                      <br />
+                      <font
+                        face="tahoma"
+                        size="1"
+                      >
+                         
+                        <br />
+                        <font
+                          face="tahoma"
+                          size="1"
+                        >
+                           
+                        </font>
+                      </font>
+                    </font>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table
+              border="0"
+              bordercolor="#000000"
+              bordercolordark="#000000"
+              bordercolorlight="#000000"
+              cellPadding="0"
+              cellSpacing="0"
+              width="650"
+            />
+            <center>
+              <p
+                align="center"
+              >
+                 
+              </p>
+            </center>
+          </center>
+        </div>
+      </center>
+    </center>
+  </div>
+</styled.div>
+`;
